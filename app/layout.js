@@ -10,11 +10,11 @@ const PIXEL_ID = process.env.NEXT_PUBLIC_META_PIXEL_ID;
 
 export const metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
-  title: `Hoco EQ34 Plus রিমা ANC+ENC ইয়ারবাড | ${SITE.name}`,
+  title: `Hoco EQ34 Plus ANC+ENC ইয়ারবাড | ${SITE.name}`,
   description:
     'ANC ও ENC নয়েজ কন্ট্রোল, ব্লুটুথ ৫.৪, ৭ ঘণ্টা প্লেব্যাক আর অ্যাপ সাপোর্ট। অফার প্রাইস মাত্র ৮০০৳। ক্যাশ অন ডেলিভারি।',
   openGraph: {
-    title: 'Hoco EQ34 Plus রিমা ANC+ENC ইয়ারবাড',
+    title: 'Hoco EQ34 Plus ANC+ENC ইয়ারবাড',
     description: 'অফার প্রাইস ৮০০৳। ক্যাশ অন ডেলিভারি।',
     images: ['/images/eq34-plus.png'],
     locale: 'bn_BD',
