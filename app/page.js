@@ -60,7 +60,7 @@ export default function Home() {
             <div className="hero-copy">
               <h1>আশপাশের শব্দ কমিয়ে শুনুন শুধু নিজের গান</h1>
               <p className="lead">
-                Hoco EQ34 Plus রিমা ANC+ENC ওয়্যারলেস ইয়ারবাড। ব্লুটুথ ৫.৪, ৭ ঘণ্টা প্লেব্যাক আর অ্যাপ দিয়ে সাউন্ড ও কন্ট্রোল সেটিং।
+                Hoco EQ34 Plus ANC+ENC ওয়্যারলেস ইয়ারবাড। ব্লুটুথ ৫.৪, ৭ ঘণ্টা প্লেব্যাক আর অ্যাপ দিয়ে সাউন্ড ও কন্ট্রোল সেটিং।
               </p>
 
               <div className="price">
